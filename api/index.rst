@@ -7,8 +7,8 @@
 
 .. _web-services-api:
 
-Web Services API Guide
-======================
+Web Services API Guide 4.1
+==========================
 
 REST API enables developers to integrate Oro functionality into third-party software systems.
 

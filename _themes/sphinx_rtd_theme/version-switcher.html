@@ -1,4 +1,8 @@
+-----------test1-----------------
+{{ versions|pprint}}
 {% if versions %}
+{{ versions.tags|pprint}}
+{{ versions.branches|pprint}}
 {% set tags = versions.tags %}
 {% set branches = versions.branches %}
 {% if (tags|length + branches|length) > 0 %}

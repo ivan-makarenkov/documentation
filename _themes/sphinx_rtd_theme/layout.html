@@ -35,7 +35,7 @@
 {% else %}
   {%- set current_title = title|striptags|e ~ titlesuffix %}
 {% endif %}
-
+{{ "TEST _________________________ sadasd"|pprint}}
 <!DOCTYPE html>
 <html class="no-js" lang="{{ lang_attr }}" >
 <head>
@@ -193,7 +193,9 @@
               </nav>
             </div>
           </div>
+          ---------------test-v-start---------------------------
           {% include "version-switcher.html"%}
+          ---------------test-v-end---------------------------
         </div>
       </aside>
       {% endif %}

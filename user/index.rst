@@ -33,17 +33,6 @@ Oro User Documentation is split into four sections, each delivering user-specifi
    <p>Glossary is an alphabetical list of OroCRM and OroCommerce terms used throughout the documentation.</p>
 
 
-.. toctree::
-   :hidden:
-   :includehidden:
-   :titlesonly:
-   :maxdepth: 7
-
-   concept-guides/index
-   back-office/index
-   storefront/index
-   glossary
-
 
 
 

@@ -3,7 +3,7 @@
 Schema
 ======
 
-All API access is over HTTP or HTTPS (depending on a server configuration) and is accessed from the ``http(s)://<hostname_of_your_oro_application>/api/<resource_name>``
+All API access is over HTTP or HTTPS (depending on a server configuration) and is accessed from the ``http(s)://<hostname_of_your_oro_application>/api/<dev-guide>``
 All data is sent and received as JSON.
 
 A typical request can be performed via curl or JSON sandbox.

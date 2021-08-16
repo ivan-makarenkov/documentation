@@ -14,11 +14,11 @@ OAuth Authentication
 while providing specific authorization flows for web applications, desktop applications, mobile phones,
 and living room devices.
 
-It is implemented by the :ref:`OroOAuth2ServerBundle <bundle-docs-platform-oauth2-server-bundle>` that supports
+It is implemented by the :ref:`OroOAuth2ServerBundle <dev-guide>` that supports
 |OAuth 2.0 Authorization Code Grant|, |OAuth 2.0 Client Credentials Grant| and |OAuth 2.0 Password Grant|.
 
-For more details, see :ref:`Manage OAuth Applications <oauth-applications>`
-and :ref:`Manage Storefront OAuth Applications <storefront-oauth-app>`.
+For more details, see :ref:`Manage OAuth Applications <dev-guide>`
+and :ref:`Manage Storefront OAuth Applications <dev-guide>`.
 
 Generate Tokens
 ---------------
@@ -36,7 +36,7 @@ Generate Tokens
 
     In order to use OAuth authentication, private and public keys should be generated and placed
     to the server. Please contact your administrator or please follow
-    the :ref:`OroOAuth2ServerBundle documentation <bundle-docs-platform-oauth2-server-bundle--configuration>`
+    the :ref:`OroOAuth2ServerBundle documentation <dev-guide>`
     if you see the following error message:
 
     *The encryption key does not exist.*

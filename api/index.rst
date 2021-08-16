@@ -46,12 +46,11 @@ Find more information about Web API in the following topics:
    response-status-codes
    error-messages
    resource-fields
-   filters
    create-update-related-resources
    client-requirements
    batch-api
 
-The documentation for the server-side developers can be found in :ref:`API Developer Guide <web-api>`.
+The documentation for the server-side developers can be found in :ref:`API Developer Guide <dev-guide>`.
 
 .. include:: /include/include-links-dev.rst
    :start-after: begin

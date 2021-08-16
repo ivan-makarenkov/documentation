@@ -3,8 +3,8 @@
 HTTP Header Specifics
 =====================
 
-As mentioned in the :ref:`Client Requirements <web-services-api--client-requirements>`
-and :ref:`Authentication <web-services-api--authentication>` sections, to perform
+As mentioned in the :ref:`Client Requirements <dev-guide>`
+and :ref:`Authentication <dev-guide>` sections, to perform
 an JSON:API request successfully, it is important to provide the correct **Accept**, **Content-Type**
 and **Authentication** parameters, e.g.,:
 
@@ -76,7 +76,7 @@ Retrieve the total number of deleted records of the resource
 
 *Example 3. Conditions for the Delete Operation*
 
-Request query string contains a filter that specifies conditions for deletion operation. Filters are described in more detail in the :ref:`Filters <web-services-api--filters>` section.
+Request query string contains a filter that specifies conditions for deletion operation. Filters are described in more detail in the :ref:`Filters <dev-guide>` section.
 
 **Request header**
 

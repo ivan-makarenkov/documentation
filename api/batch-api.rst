@@ -53,7 +53,7 @@ To mark records that should be updated, use the ``update`` meta property:
        ]
     }
 
-See :ref:`Creating and Updating Related Resources with Primary API Resource <web-services-api--create-update-related-resources>`
+See :ref:`Creating and Updating Related Resources with Primary API Resource <dev-guide>`
 for more details about this meta property.
 
 Included Items

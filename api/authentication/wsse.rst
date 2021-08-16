@@ -17,7 +17,7 @@ It is implemented by the |OroWsseAuthenticationBundle| that covers most cases fr
 .. important::
 
     Please note that WSSE authentication is deprecated and will be removed in one of the future LTS releases.
-    Use :ref:`OAuth authentication<web-services-api--authentication--oauth>` instead.
+    Use :ref:`OAuth authentication<dev-guide>` instead.
 
 
 Creating an API Key

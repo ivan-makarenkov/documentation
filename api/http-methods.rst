@@ -93,7 +93,7 @@ On successful creation, HTTP response code 201 is returned.
 
 .. note::
     It is possible to create both primary and related API resources via a single API request. For details, see the
-    :ref:`Creating and Updating Related Resources with Primary API Resource <web-services-api--create-update-related-resources>` section.
+    :ref:`Creating and Updating Related Resources with Primary API Resource <dev-guide>` section.
 
 
 .. _web-services-api--http-methods--patch:
@@ -113,7 +113,7 @@ server should be modified to produce a new version.
     application should use a conditional request (e.g., GET a resource, ensure it was not modified and apply PATCH) such that the request will fail if the resource has been updated since the client last accessed the resource.
 
 .. note::
-    For details, see the :ref:`Creating and Updating Related Resources with Primary API Resource <web-services-api--create-update-related-resources>` section.
+    For details, see the :ref:`Creating and Updating Related Resources with Primary API Resource <dev-guide>` section.
 
 
 .. _web-services-api--http-methods--delete:

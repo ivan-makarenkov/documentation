@@ -18,4 +18,4 @@ Out-of-the-box, OroPlatform provides the following authentication mechanism:
 .. important::
 
     Please note that WSSE authentication is deprecated and will be removed in one of the future LTS releases.
-    Use :ref:`OAuth authentication<web-services-api--authentication--oauth>` instead.
+    Use :ref:`OAuth authentication<dev-guide>` instead.
